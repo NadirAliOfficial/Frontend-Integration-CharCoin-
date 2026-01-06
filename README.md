@@ -15,3 +15,4 @@ npm run dev
 
 ## License
 MIT
+<!-- updated: 2026-01-06-03 -->
